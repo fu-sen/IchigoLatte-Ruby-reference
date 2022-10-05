@@ -12,8 +12,3 @@ Windows ではメモ帳を使用する事が可能です。
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
 [IchigoLatte](http://ichigolatte.shizentai.jp/) は [株式会社ナチュラルスタイル](https://na-s.jp/) の登録商標です。
-
-### IchigoLatte R β
-
-2021年2月 RISC-V プロセッサ対応の IchigoLatte R β が公開されています。\
-こちらの仕様は後ほど反映します。
